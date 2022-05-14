@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c9e43d99dc09bb18",
+        "id": "f7885058ae63ad4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mither Mages Series/Book 1 - The Lost Gate/Book Club Discussions/1. Chapters 1-4.md",
+            "file": "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/1.1 Stormblessed.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mither Mages Series/Book 1 - The Lost Gate/Book Club Discussions/1. Chapters 1-4.md",
+                "file": "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/1.1 Stormblessed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9e43d99dc09bb18",
+  "active": "f7885058ae63ad4b",
   "lastOpenFiles": [
-    "Mither Mages Series/Book 1 - The Lost Gate/Book Club Discussions/1. Chapters 1-4.md",
-    "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/1. Drekka.md",
+    "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/1.1 Stormblessed.md",
+    "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/0.2. Prologue - To Kill.md",
+    "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/0.1. Prelude to The Stormlight Archive.md",
     "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/4. Shoplifter.md",
     "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/3. The Man in the Tree.md",
     "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/2. The Greek Girl.md",
-    "NoteTemplates/Chapter Note Template.md",
-    "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/1. Prologue - To Kill.md",
-    "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/0. Prelude to The Stormlight Archive.md",
+    "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/1. Drekka.md",
+    "Mither Mages Series/Book 1 - The Lost Gate/Book Club Discussions/1. Chapters 1-4.md",
     "Mistborn Series/Book 1 - The Final Empire/Chapter Notes/0. Prologue.md",
-    "Untitled.md"
+    "Mistborn Series/Book 1 - The Final Empire/Untitled.md"
   ]
 }
