@@ -7,12 +7,8 @@
         "id": "f7885058ae63ad4b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/1.2 Honor is Dead.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/1.2 Honor is Dead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,8 @@
   },
   "active": "f7885058ae63ad4b",
   "lastOpenFiles": [
+    "Mistborn Series/Book 1 - The Final Empire/Chapter Notes/0. Prologue.md",
+    "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/0.2 Prologue - To Kill.md",
     "Stormlight Archive Series/Book 1 - The Way of Kings/Chapter Notes/1.2 Honor is Dead.md",
     "NoteTemplates/Chapter Note Template.md",
     "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/12. The Queen's Hero.md",
@@ -96,8 +93,6 @@
     "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/10. Inside Man.md",
     "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/9. Orphans.md",
     "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/8. Safe Room.md",
-    "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/7. Stone's House.md",
-    "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/6. Fistalk.md",
-    "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/5. The Gate Thief.md"
+    "Mither Mages Series/Book 1 - The Lost Gate/Chapter Notes/7. Stone's House.md"
   ]
 }
